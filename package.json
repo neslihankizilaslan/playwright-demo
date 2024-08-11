@@ -1,5 +1,6 @@
 {
-  "name": "e2e-test",
+  "name": "playwright-demo",
+  "author": "Neslihan Kizilaslan <neslihankizilaslan@gmail.com>",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +9,6 @@
     "report": "npx playwright show-report"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
